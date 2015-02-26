@@ -9,6 +9,7 @@ gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'bcrypt'
 gem 'bootstrap-sass'
+gem 'haml','~> 4.0.6'
 
 group :development, :test do
   gem "rspec-rails"
