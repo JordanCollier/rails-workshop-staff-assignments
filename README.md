@@ -12,14 +12,14 @@ Note: email/password combinations for existing users populated by `bin/setup` ca
 
 ## Stories
 
-**Users can see a person show page**
+[√]**Users can see a person show page**
 
 ```
 On the index page the names should be links
 Clicking link brings users to show page
 ```
 
-**Users can edit people**
+*[]*Users can edit people**
 
 ```
 From the person show page
