@@ -19,7 +19,7 @@ On the index page the names should be links
 Clicking link brings users to show page
 ```
 
-*[]*Users can edit people**
+[√]**Users can edit people**
 
 ```
 From the person show page
