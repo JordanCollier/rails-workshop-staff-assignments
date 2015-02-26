@@ -3,6 +3,7 @@
 </div>
 
 <%= form_for @person do |f| %>
+<%= render partial: "shared/error", locals: {object: @person, error_type: "person"} %>
 
   <div class="form-group">
     <%= f.label :title %>
